@@ -1,0 +1,6 @@
+{
+  "name": "MicrOSAtellite Instability Classifier (MOSAIC)",
+  "tagline": "",
+  "body": "This is a description of the analysis of the TCGA exome data in the publication \"Genomic survey of microsatellite instability reveals cancer-specific signatures and mutations in driver genes\".",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
